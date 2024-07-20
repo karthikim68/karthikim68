@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Karthik a passionate Python developer and aspiring data analyst. I love exploring data, uncovering insights, and using programming to solve complex problems.
+- Programming Languages: Python,c
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: Scikit-Learn, TensorFlow
+- Web Development: Flask, Django
+- Databases: SQL, SQLite
+- Tools: Jupyter Notebook, vs code, codeblocks
+--->
